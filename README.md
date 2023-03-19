@@ -1,7 +1,7 @@
-# DrawingApp
+# DrawingApp (LePaint)
 A visual basic windows application to draw and create images.
 ## Description / Usage
-The DrawingApp is a paint-esque application that allows you to paint on a canvas with various different shapes.
+LePaint is a paint-esque application that allows you to paint on a canvas with various different shapes.
 
 ### Tools
 The "tools" section of this application comes with some utility options to help flesh out your drawings. There are four buttons in this group:
